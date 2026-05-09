@@ -1,5 +1,7 @@
 # MacroPad Configuration Tools
 
+![MacroPad](pictures/macropad_2knopf.jpg)
+
 [🇬🇧 English](#english) | [🇩🇪 Deutsch](#deutsch)
 
 ---
