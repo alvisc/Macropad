@@ -126,6 +126,12 @@ def main() -> int:
     )
     parser.add_argument("--interval-ms", type=int, default=10, help="Delay between writes in ms")
     parser.add_argument("--dry-run", action="store_true", help="Print frames only, do not send")
+    
+    # Show help when called without arguments
+    if len(sys.argv) == 1:
+        parser.print_help(sys.stdout)
+        return 0
+    
     args = parser.parse_args()
 
     if args.mode_color is not None:
