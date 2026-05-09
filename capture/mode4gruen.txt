@@ -1,0 +1,13 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000       host                  1.25.2                USB      92     URB_INTERRUPT out
+
+Frame 1: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03feb00108000000000001004400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 0.001126       host                  1.25.2                USB      92     URB_INTERRUPT out
+
+Frame 3: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fdfeff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000

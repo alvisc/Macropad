@@ -1,0 +1,524 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000       host                  1.25.2                USB      92     URB_INTERRUPT out
+
+Frame 1: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0f03010660cc850020cd85007cf20269000000004d005c0620cd8500a8010000520100000000000010cd8500a0cd8500a81c720608985a0640cd8500c7b63a
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 0.002218       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 3: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa010101000000000001000400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 0.004218       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 5: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa020101000000000001000500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 0.006217       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 7: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa030101000000000001000600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 0.008216       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 9: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa040101000000000001000700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 0.010217       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 11: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa050101000000000001000800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 0.012217       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 13: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa060101000000000001000900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 0.014217       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 15: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa070101000000000001000a00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     17 0.016216       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 17: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa080101000000000001000b00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     19 0.018217       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 19: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa090101000000000001000c00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 0.020215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 21: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0a0101000000000001000d00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 0.022216       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 23: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0b0101000000000001000e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     25 0.024216       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 25: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0c0101000000000001000f00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 0.026216       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 27: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0d0101000000000001001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 0.028216       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 29: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0e0101000000000001001100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 0.030217       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 31: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0f0101000000000001001200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 0.032217       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 33: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa120101000000000001001e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     35 0.034215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 35: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa110101000000000001001f00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 0.036215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 37: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa100101000000000001002000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     39 0.038215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 39: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa150101000000000001002100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     41 0.040215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 41: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa140101000000000001002200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     43 0.042215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 43: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa130101000000000001002300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     45 0.044215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 45: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa180101000000000001002400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     47 0.046215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 47: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa170101000000000001002500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     49 0.048216       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 49: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa160101000000000001002600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     51 0.048767       host                  1.25.2                USB      92     URB_INTERRUPT out
+
+Frame 51: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0f03020660cc850020cd85007cf20269000000004d005c0620cd8500a8010000520100000000000010cd8500a0cd8500a81c720608985a0640cd8500c7b63a
+
+No.     Time           Source                Destination           Protocol Length Info
+     53 0.051214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 53: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa010201000000000001005900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     55 0.053216       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 55: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa020201000000000001005a00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     57 0.055217       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 57: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa030201000000000001000600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 0.057216       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 59: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa040201000000000001000700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 0.059216       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 61: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa050201000000000001000800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     63 0.061216       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 63: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa060201000000000001000900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     65 0.063215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 65: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa070201000000000001000a00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     67 0.065214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 67: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa080201000000000001000b00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     69 0.067214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 69: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa090201000000000001000c00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     71 0.069215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 71: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0a0201000000000001000d00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     73 0.071214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 73: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0b0201000000000001000e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     75 0.073215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 75: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0c0201000000000001000f00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     77 0.075214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 77: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0d0201000000000001001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     79 0.077216       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 79: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0e0201000000000001001100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     81 0.079215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 81: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0f0201000000000001001200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     83 0.081214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 83: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa120201000000000001001e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     85 0.083214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 85: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa110201000000000001001f00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     87 0.085214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 87: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa100201000000000001002000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     89 0.087213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 89: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa150201000000000001002100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     91 0.089215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 91: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa140201000000000001002200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     93 0.091214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 93: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa130201000000000001002300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     95 0.093215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 95: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa180201000000000001002400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     97 0.095214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 97: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa170201000000000001002500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     99 0.097213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 99: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa160201000000000001002600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    101 0.097747       host                  1.25.2                USB      92     URB_INTERRUPT out
+
+Frame 101: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0f03030660cc850020cd85007cf20269000000004d005c0620cd8500a8010000520100000000000010cd8500a0cd8500a81c720608985a0640cd8500c7b63a
+
+No.     Time           Source                Destination           Protocol Length Info
+    103 0.100233       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 103: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa010301000000000001006200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    105 0.102214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 105: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa020301000000000001006200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    107 0.104214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 107: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa030301000000000001000600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    109 0.106300       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 109: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa040301000000000001000700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    111 0.108215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 111: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa050301000000000001000800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    113 0.110215       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 113: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa060301000000000001000900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    115 0.112213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 115: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa070301000000000001000a00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    117 0.114213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 117: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa080301000000000001000b00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    119 0.116213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 119: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa090301000000000001000c00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    121 0.118222       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 121: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0a0301000000000001000d00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    123 0.120214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 123: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0b0301000000000001000e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    125 0.122213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 125: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0c0301000000000001000f00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    127 0.124214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 127: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0d0301000000000001001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    129 0.126213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 129: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0e0301000000000001001100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    131 0.128213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 131: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa0f0301000000000001001200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    133 0.130212       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 133: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa120301000000000001001e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    135 0.132213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 135: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa110301000000000001001f00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    137 0.134213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 137: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa100301000000000001002000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    139 0.136213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 139: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa150301000000000001002100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    141 0.138212       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 141: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa140301000000000001002200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    143 0.140214       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 143: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa130301000000000001002300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    145 0.142213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 145: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa180301000000000001002400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    147 0.144213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 147: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa170301000000000001002500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+No.     Time           Source                Destination           Protocol Length Info
+    149 0.146213       1.25.2                host                  USB      92     URB_INTERRUPT in
+
+Frame 149: 92 bytes on wire (736 bits), 92 bytes captured (736 bits) on interface \\.\USBPcap1, id 0
+USB URB
+Leftover Capture Data: 03fa160301000000000001002600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
