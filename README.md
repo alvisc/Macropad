@@ -10,7 +10,9 @@
 
 ### MacroPad Configuration Tools
 
-This repository contains Python scripts for configuring a MacroPad device with VID:PID 514c:8851. The scripts allow you to set key assignments and change the LED mode.
+This repository contains Python scripts for configuring a SikaiCase MacroPad device with VID:PID 514c:8851. The scripts allow you to set key assignments and change the LED mode.
+
+For the official software and more information, visit: [SikaiCase Software](https://sikaicase.com/de/blogs/support/setting-for-software)
 
 #### Files
 
@@ -68,7 +70,9 @@ Make sure the MacroPad device is connected and recognized before running the scr
 
 ### MacroPad Konfigurationswerkzeuge
 
-Dieses Repository enthält Python-Skripte zur Konfiguration eines MacroPad-Geräts mit der VID:PID 514c:8851. Die Skripte ermöglichen es, Tastenbelegungen zu setzen und den LED-Modus zu ändern.
+Dieses Repository enthält Python-Skripte zur Konfiguration eines SikaiCase MacroPad-Geräts mit der VID:PID 514c:8851. Die Skripte ermöglichen es, Tastenbelegungen zu setzen und den LED-Modus zu ändern.
+
+Für die offizielle Software und weitere Informationen, besuchen Sie: [SikaiCase Software](https://sikaicase.com/de/blogs/support/setting-for-software)
 
 #### Dateien
 
